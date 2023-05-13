@@ -12,4 +12,4 @@
 * git push (envia de fato para o repositorio)
 * git branch nome (cria branches)
 * git checkout nome (da switch de branches)
-* git merge nome (traz a brach pro aquivo atual)
+* git merge nome (traz a brach pro aquivo atual/ unir os commits )
