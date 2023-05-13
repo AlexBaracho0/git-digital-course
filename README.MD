@@ -7,4 +7,5 @@
 * git add <file> (adiciona alterações pro sistema)
 * git status (verifica o status do codigo)
 * git restore --staged <file> (versiona o arquivo para uma versão antiga)
-* git remote origin/main master 
+* git commit -m "comentario" (satisfeito com as alterações e posso commitar)
+* git remote origin/main master (envia para o repositorio)
