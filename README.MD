@@ -7,3 +7,5 @@
 ## salvando no git
 
 ## comando git push
+
+## salvando no repositorio remoto
