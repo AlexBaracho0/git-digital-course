@@ -5,3 +5,5 @@
 ## movimentação
 
 ## salvando no git
+
+## comando git push
