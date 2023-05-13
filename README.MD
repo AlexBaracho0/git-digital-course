@@ -2,6 +2,7 @@
 
 ## Salvando alterações no GIT
 
+* git init
 * git pull (traz oque foi mudado para o local)
 * git fetch (verifica antes de dar pull no local: git diff origin/main)
 * git add <file> (adiciona alterações pro sistema)
