@@ -10,6 +10,3 @@
 * git commit -m "comentario" (satisfeito com as alterações e posso commitar)
 * git remote origin/main master (encontra o repositorio para dar push)
 * git push (envia de fato para o repositorio)
-* git branch nome (cria branches)
-* git checkout nome (da switch de branch)
-* git merge nome (traz os arquivos para a branch atual)
