@@ -1,11 +1,6 @@
-## GRAVANDO MUDANCAS
+# Curso Digital: GIT
 
-## VERSIONAMENTO
-
-## movimentação
-
-## salvando no git
-
-## comando git push
-
-## salvando no repositorio remoto1
+## Salvando alterações no GIT
+* comando git push
+* comando git pull
+* comando git fetch
