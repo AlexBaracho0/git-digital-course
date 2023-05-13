@@ -4,5 +4,7 @@
 * comando git push
 * comando git pull (traz oque foi mudado para o local)
 * comando git fetch (verifica antes de dar pull no local: git diff origin/main)
-* teste
-* teste2
+* git add <file> (adiciona alterações pro sistema)
+* git status (verifica o status do codigo)
+* git restore --staged <file> (versiona o arquivo para uma versão antiga)
+* git remote origin/main master 
